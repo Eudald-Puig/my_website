@@ -92,7 +92,7 @@ disqusShortname = ""
       title = "Tomorrowland"
       subtitle = "Live today, love tomorrow, unite forever"
       image = "tomorrow.jpg"
-      url = "magna"
+      url = "Projects/Project1"
 
     
   [params.blog]
