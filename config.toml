@@ -95,7 +95,7 @@ disqusShortname = ""
       title = "Asset_Management"
       subtitle = "Value Investors Club"
       image = "download.jpg"
-      url = "blogs/ipsum"
+      url = "CV"
 
     [[params.tiles.showcase]]
       title = "Tomorrowland"
