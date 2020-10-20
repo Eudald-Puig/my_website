@@ -91,15 +91,15 @@ disqusShortname = ""
       title = "Asset_Management"
       subtitle = "Value Investors Club"
       image = "download.jpg"
-      url = "Projects"
+      url = "Projects/Project1"
 
     [[params.tiles.showcase]]
       title = "Tomorrowland"
       subtitle = "Live today, love tomorrow, unite forever"
       image = "tomorrow.jpg"
-      url = "Projects"
-
-    
+      url = "Projects/Project2"
+      
+      
   [params.blog]
     # All blogs defined in their own files. You can find example blogs
     # at 'exampleSite/content/blogs'. Copy the 'blogs' folder into the 'content' directory
