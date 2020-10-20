@@ -95,13 +95,13 @@ disqusShortname = ""
       title = "Asset_Management"
       subtitle = "Value Investors Club"
       image = "download.jpg"
-      url = "blogs/Asset_Management"
+      url = "blogs/ipsum"
 
     [[params.tiles.showcase]]
       title = "Tomorrowland"
       subtitle = "Live today, love tomorrow, unite forever"
       image = "tomorrow.jpg"
-      url = "blogs/Tomorrowland"
+      url = "blogs/magna"
 
     
   [params.blog]
@@ -169,7 +169,7 @@ disqusShortname = ""
 
     [[params.footer.social]]
       icon = "fa-facebook"
-      url= "https://www.facebook.com/public/Eudald-Puig"
+      url= "https://www.facebook.com/public/Eudald-Puig/"
       label = "Facebook"
 
     [[params.footer.social]]
@@ -189,5 +189,5 @@ disqusShortname = ""
 
     [[params.footer.quicklinks]]
       text = "Design: "
-      url= "https://www.html5up.net"
+      url= "https://www.html5up.net/"
       alt = "HTML5 UP"
