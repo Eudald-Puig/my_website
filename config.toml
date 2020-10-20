@@ -101,7 +101,7 @@ disqusShortname = ""
       title = "Tomorrowland"
       subtitle = "Live today, love tomorrow, unite forever"
       image = "tomorrow.jpg"
-      url = "blogs/magna"
+      url = "magna"
 
     
   [params.blog]
@@ -115,7 +115,7 @@ disqusShortname = ""
   [params.two]
     enable = true
     title = "Further Reading"
-    subtitle = """Solo necio confunde valor y precio 
+    subtitle = """Solo necio confunde valor y precio"""
     Text = "Get Started"
     url = "blogs"
 
